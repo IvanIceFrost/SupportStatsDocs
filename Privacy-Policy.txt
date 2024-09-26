@@ -1,0 +1,72 @@
+Privacy Policy for SupportStats
+
+1. Introduction
+  SupportStats is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and disclose data when you use the SupportStats bot (“Bot”). By using the Bot, you agree to this Privacy Policy.
+
+2. Information We Collect
+  SupportStats collects the following types of information solely for the purpose of tracking support staff performance, ticket counts, and related metrics:
+  
+  Server Information: We collect server-specific data, including server IDs, staff roles, and permissions to identify staff members who interact with support tickets.
+
+  User Information: We collect user-specific information such as:
+      User IDs: Unique identifiers of staff members handling tickets to track their individual ticket-handling activity.
+      Usernames and Discriminators: Usernames and Discord tag numbers of staff members for display purposes in reports and statistics.
+
+  Ticket Data: This includes data regarding tickets created, handled, or resolved by staff members, including:
+      Number of tickets each staff member has handled.
+      Timestamp of when tickets were opened, assigned, and closed.
+      Any status changes and interactions staff members had with tickets.
+
+  Performance Metrics: We calculate and store performance data for each staff member, including:
+      Percentage of tickets handled by each staff member in comparison to the total number of tickets.
+      Average response and resolution times.
+      Other relevant metrics to assess individual staff efficiency.
+
+  All the information collected is used solely to track the staff members' interactions with support tickets and provide administrators with accurate performance metrics.
+
+3. How We Use the Information
+
+  The data collected by SupportStats is used exclusively for the following purposes:
+
+  Tracking Ticket Activity: We log and count the number of support tickets interacted with by each staff member. This includes logging message content where necessary to track interactions and resolutions of support tickets.
+
+  Message Content Logging: In some cases, SupportStats may log parts of message content within support tickets to provide detailed performance tracking and ensure accuracy in reporting. 
+  While the Bot primarily focuses on ticket-related activities, it may inadvertently collect message content that contains sensitive information or personal details. SupportStats does not intentionally collect or store such sensitive information, and we take precautions to ensure that message content is only used for ticket-tracking purposes.
+
+  Performance Reports: The data we collect is used to generate monthly or custom reports for server administrators and staff members. These reports may include:
+      The total number of tickets handled by each staff member.
+      Ticket-handling performance percentages and metrics.
+      Average response times, resolution times, and other performance-related statistics.
+
+  Team Monitoring: The collected data helps server administrators monitor their team’s ticket-handling performance and optimize support processes. By providing insights into staff productivity and responsiveness, SupportStats assists in improving overall server support efficiency.
+
+4. Data Sharing and Third Parties
+  We may share data with third-party service providers who help us operate the Bot (e.g., server hosting, data storage). These providers are required to protect your data and only use it for the purpose of providing services to us. Additionally, we may share data if required by law, such as responding to a subpoena or court order.
+
+5. Data Security
+  We implement reasonable security measures to protect your data from unauthorized access, disclosure, or alteration. However, no data transmission over the internet or electronic storage method is completely secure. We cannot guarantee absolute security, and you use the Bot at your own risk.
+
+6. Data Retention
+  We retain data as long as necessary to provide the service or comply with legal obligations. If you wish to have your data deleted, please contact us via github, and we will delete your server’s data within a reasonable timeframe unless required to retain it by law.
+
+7. Compliance with GDPR and Other Data Protection Laws
+  If you are located in the European Union (EU) or other regions with data protection laws, such as the General Data Protection Regulation (GDPR), we will ensure compliance with such regulations. You have the following rights:
+
+  Access: You can request access to the data we hold about you.
+  Correction: You can request corrections to your data.
+  Deletion: You can request deletion of your data.
+  Restriction: You can request limitations on how we use your data.
+
+  To exercise any of these rights, please contact us via github.
+
+8. Children’s Privacy
+  The Bot is not intended for use by individuals under the age of 13. We do not knowingly collect personal data from children under 13. If we discover that we have collected data from a child under 13, we will promptly delete it. If you are aware of such a situation, please contact us.
+
+9. International Data Transfers
+  If you are using the Bot from outside the United States, please be aware that your data may be transferred to and stored in servers located in other countries, which may have different data protection laws than your country.
+
+10. Changes to This Policy
+  We reserve the right to update this Privacy Policy at any time. We will notify you of any changes by posting the new policy on relevant channels, the bot’s website, or here on github. Continued use of the Bot after such changes constitutes your acceptance of the updated policy.
+
+11. Contact Information
+  If you have any questions or concerns about this Privacy Policy, or to exercise your data protection rights, please contact us here on github.
